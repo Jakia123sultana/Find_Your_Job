@@ -1,0 +1,6 @@
+[submodule "career_code_server_with_CRUD"]
+	path = career_code_server_with_CRUD
+	url = https://github.com/Jakia123sultana/career_code_server_with_CRUD.git
+[submodule "online_job_portal"]
+	path = online_job_portal
+	url = https://github.com/Jakia123sultana/online_job_portal.git
